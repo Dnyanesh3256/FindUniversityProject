@@ -4,6 +4,12 @@
 
 ---
 
+## 🚀 Live Demo
+
+👉 [View on GitHub Pages](https://dnyanesh3256.github.io/FindUniversityProject/)
+
+---
+
 ## 🌟 Features
 
 - 🔍 Search universities by country name  
